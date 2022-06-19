@@ -49,7 +49,7 @@ const menu = [
   },
   {
     id: 7,
-    title: 'bacon overflow',
+    title: 'lamb dream brunch',
     category: 'breakfast',
     price: 8.99,
     img: './images/item-7.jpeg',
