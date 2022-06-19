@@ -2,7 +2,7 @@
 
 ### Hosted Project
 
-[food-menu  app on netlify](https://accordion-react-mini-app-by-bh27.netlify.app/)
+[food-menu  app on netlify](https://food-menu-react-by-bh27.netlify.app/)
 
 #### Setup
 
